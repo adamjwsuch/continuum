@@ -43,6 +43,8 @@
     <continuumWebappVersion>${project.version}</continuumWebappVersion>
     <!-- Note, when later moving beyond 2.2.1, the continuum-artifact-manager module should be removed -->
     <maven.version>2.2.1</maven.version>
+    <maven.compiler.source>1.6</maven.compiler.source>
+    <maven.compiler.target>1.6</maven.compiler.target>
     <spring.version>3.2.13.RELEASE</spring.version>
     <struts.version>2.3.20</struts.version>
     <wagon.version>1.0-beta-6</wagon.version>
